@@ -5,7 +5,7 @@ In this deeply detailed tutorial, we'll build a complete CI/CD pipeline using Je
 * Create a simple Node.js app
 * Write a Dockerfile to containerize the app
 * Install and configure Jenkins on Windows and Linux
-* Write a Jenkinsfile to automate testing and Docker deployment.
+* Write a Jenkinsfile to automate testing and Docker deployment
 * Use Jenkins secrets to store Docker credentials
 
 ---
